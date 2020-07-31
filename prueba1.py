@@ -6,3 +6,5 @@ else:
     print('Impar')
 
 #Hola raul <3
+
+#VIVAN LOS POTOS
